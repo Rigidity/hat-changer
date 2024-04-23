@@ -11,7 +11,7 @@ use pretty_duration::pretty_duration;
 use serde::{Deserialize, Serialize};
 use thiserror::Error;
 
-/// Simple tool for managing time spent on projects.
+/// An extremely lightweight time tracking tool for work.
 #[derive(Parser, Debug)]
 #[command(version, about, long_about = None)]
 struct Args {

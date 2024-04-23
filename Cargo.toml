@@ -2,6 +2,9 @@
 name = "hat-changer"
 authors = ["Brandon Haggstrom <me@rigidnetwork.com>"]
 description = "An extremely lightweight time tracking tool for work."
+license = "Apache-2.0"
+homepage = "https://github.com/rigidity/hat-changer"
+repository = "https://github.com/rigidity/hat-changer"
 version = "0.1.0"
 edition = "2021"
 

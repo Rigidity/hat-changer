@@ -1,5 +1,8 @@
 # Hat Changer
 
+![Crates.io Version](https://img.shields.io/crates/v/hat-changer)
+
+
 Hat Changer is a very simple command-line tool written in Rust for tracking time for various projects.
 
 ## Installation
